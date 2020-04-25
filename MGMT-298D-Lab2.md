@@ -9,10 +9,6 @@ output:
     toc_depth: 4
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # 1. Overview
 
 The paper "The economics of intense exercise" by Meltzer and Jena (*Journal of Health Economics*, 2010) specifies an model for exercise behavior. Individuals wish to maximize utility, which depends on health and other factors. Health depends on both exercise duration and intensity. Faced with a time budget constraint, the model posits that individuals with higher hourly wages will engage in more intense exercise because it is more time-efficient.
