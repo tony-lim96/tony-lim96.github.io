@@ -408,7 +408,7 @@ summary {
 </div>
 <div id="data-exploration" class="section level1">
 <h1>3. Data Exploration</h1>
-<p>Use read.csv() to load the insurance data for analysis. We add the option stringsAsFactors = TRUE to convert the 3 categorical variables to factors:</p>
+<p>Use <code>read.csv()</code> to load the insurance data for analysis. We add the option <code>stringsAsFactors = TRUE</code> to convert the 3 categorical variables to factors:</p>
 <pre class="r"><code>list.of.packages &lt;- c(&quot;tidyverse&quot;, &quot;ggrepel&quot;, &quot;broom&quot;, &quot;jtools&quot;, &quot;ggplot2&quot;, &quot;psych&quot;)
 new.packages &lt;- list.of.packages[!(list.of.packages %in% installed.packages()[,&quot;Package&quot;])]
 if(length(new.packages)) install.packages(new.packages)
@@ -446,12 +446,12 @@ str(insurance)</code></pre>
 <p>Our model’s dependent variable is <strong>expenses</strong>, which measures the medical costs charged to the insurance plan for the year. Let’s take a look at the summary statistics:</p>
 <div id="question-1" class="section level2">
 <h2>Question 1</h2>
-<p>What are the mean and median medical expenses? What does this tell you about the distribution? Use the hist() function to plot a histogram.</p>
+<p>What are the mean and median medical expenses? What does this tell you about the distribution? Use the <code>hist()</code> function to plot a histogram.</p>
 <pre class="r"><code>mean(insurance$expenses)</code></pre>
 <pre><code>## [1] 13270.42</code></pre>
 <pre class="r"><code>median(insurance$expenses)</code></pre>
 <pre><code>## [1] 9382.033</code></pre>
-<p>Because the mean is higher than the median, this means that the distribution is possibly skewed to the right.</p>
+<p>Because the mean is higher than the median, the distribution is skewed to the right.</p>
 <pre class="r"><code>insurance %&gt;%
   ggplot() +
   geom_histogram(mapping = aes(x = expenses), fill = &quot;#2774AE&quot;) + 
@@ -512,7 +512,7 @@ str(insurance)</code></pre>
 <p>We next use linear regression to examine the association between medical expenses and the independent variables.</p>
 <div id="question-6" class="section level2">
 <h2>Question 6</h2>
-<p>Run a simple linear regression on just age (let’s name this regression “reg1”). Use the tidy() command from the broom package to format the output. What is your interpretation of the coefficient on age? Is this statistically significant at the 5% level?</p>
+<p>Run a simple linear regression on just age (let’s name this regression “reg1”). Use the <code>tidy()</code> command from the broom package to format the output. What is your interpretation of the coefficient on age? Is this statistically significant at the 5% level?</p>
 <pre class="r"><code>reg1 &lt;- lm(expenses ~ age, data = insurance)
 summ(reg1)</code></pre>
 <pre><code>## MODEL INFO:
@@ -569,7 +569,7 @@ summ(reg2)</code></pre>
 </div>
 <div id="question-8" class="section level2">
 <h2>Question 8</h2>
-<p>Use the summary() command to evaluate the model performance. What fraction of the variation in medical expenses is explained by variation in these 6 variables?</p>
+<p>Use the <code>summary()</code> command to evaluate the model performance. What fraction of the variation in medical expenses is explained by variation in these 6 variables?</p>
 <pre class="r"><code>summary(reg2)</code></pre>
 <pre><code>## 
 ## Call:
