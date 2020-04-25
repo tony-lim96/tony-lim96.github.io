@@ -32,3 +32,7 @@
 ### HLT POL 436 Healthcare Financial Management
 
 ### HLT POL 441 Data Analytics: Identifying, Collecting, and Analyzing Data in Health Care
+
+## Fall 2019
+### HLT POL 403 Healthcare Financial Accounting
+
