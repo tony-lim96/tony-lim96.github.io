@@ -4,6 +4,7 @@ subtitle: "Lab 2 Socioeconomics and Exercise Behavior"
 author: "Tony Lim"
 output:
   html_document:
+    keep_md: true
     toc: true
     toc_depth: 4
 ---
