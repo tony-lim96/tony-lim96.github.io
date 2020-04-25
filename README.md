@@ -1,6 +1,6 @@
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* Lab 1
+* [Lab 1](https://tonylim96.github.io/MGMT-298D/Lab1.html)
 * [Lab 2 Socioeconomics and Exercise Behavior](https://tonylim96.github.io/MGMT-298D/Lab2.html)
 * Lab 3
 * Lab 4
