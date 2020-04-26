@@ -7,10 +7,10 @@
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
-* Homework 1
-* Homework 2
+* [Homework 1](https://tonylim96.github.io/BIOSTAT-203B/Homework1.html)
+* [Homework 2](https://tonylim96.github.io/BIOSTAT-203B/Homework2.html)
 * Homework 3
-* Homework 4
+* [Homework 4](https://tonylim96.github.io/BIOSTAT-203B/Homework4.html)
 
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
