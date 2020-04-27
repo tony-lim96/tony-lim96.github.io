@@ -374,7 +374,7 @@ summary {
 <li><a href="#data-preparation">Data preparation</a><ul>
 <li><a href="#query-and-subsetting">Query and subsetting</a></li>
 <li><a href="#transform-and-augment-query-tables">Transform and augment query tables</a></li>
-<li><a href="#consort-flow-diagrams">CONSORT Flow Diagrams</a></li>
+<li><a href="#consort-flow-diagrams">CONSORT flow diagrams</a></li>
 </ul></li>
 <li><a href="#data-visualization">Data visualization</a><ul>
 <li><a href="#age">Age</a></li>
@@ -389,7 +389,7 @@ summary {
 <li><a href="#logistic-regression">Logistic regression</a></li>
 <li><a href="#roc-curve">ROC curve</a></li>
 </ul></li>
-<li><a href="#close-the-connection-to-the-database">Close the connection to the database</a></li>
+<li><a href="#close-the-connection-to-the-database">Closing the database connection</a></li>
 <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 </div>
@@ -851,8 +851,8 @@ study_subjects %&gt;%
 ## # … with more rows, and 1 more variable: ethnic_group &lt;chr&gt;</code></pre>
 </div>
 <div id="consort-flow-diagrams" class="section level2">
-<h2>CONSORT Flow Diagrams</h2>
-<p>The following <a href="http://www.consort-statement.org/consort-statement/flow-diagram">CONSORT Flow Diagrams</a> plot the flow of data selection of the patient cohort.</p>
+<h2>CONSORT flow diagrams</h2>
+<p>The following <a href="http://www.consort-statement.org/consort-statement/flow-diagram">CONSORT flow diagrams</a> plot the flow of data selection of the patient cohort.</p>
 <pre class="r"><code>library(shape)
 library(diagram)
 
@@ -1171,7 +1171,7 @@ ggplot(newdf, aes(x = 1 - spec, y = sens)) +
 </div>
 </div>
 <div id="close-the-connection-to-the-database" class="section level1">
-<h1>Close the connection to the database</h1>
+<h1>Closing the database connection</h1>
 <pre class="r"><code>dbDisconnect(con)</code></pre>
 <pre><code>## [1] TRUE</code></pre>
 </div>
