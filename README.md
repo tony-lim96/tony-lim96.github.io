@@ -26,7 +26,8 @@
 * Lab 8
 
 ### HLT POL 445 Healthcare Marketing
-* [Forecasting Denosumab](https://tonylim96.github.io/HLT-POL-445/ForecastingDenosumab.pdf)
+* [Forecasting Denosumab](https://tonylim96.github.io/HLT-POL-445/Denosumab.pdf)
+* [Product Team Cialis: Getting Ready to Market](https://tonylim96.github.io/HLT-POL-445/Cialis.pdf)
 
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
