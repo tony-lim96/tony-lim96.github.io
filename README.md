@@ -7,10 +7,10 @@
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
-* [Homework 1 Introduction to MIMIC-III Data with Linux](https://tonylim96.github.io/BIOSTAT-203B/Homework1.html)
-* [Homework 2 Analysis and Visualization of MIMIC-III Data](https://tonylim96.github.io/BIOSTAT-203B/Homework2.html)
+* [Homework 1 Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html)
+* [Homework 2 Analysis and Visualization of MIMIC-III Data](/BIOSTAT-203B/Homework2.html)
 * Homework 3
-* [Homework 4 30-Day Mortality Rate of Patients with Cancer Admitted to MICU](https://tonylim96.github.io/BIOSTAT-203B/Homework4.html)
+* [Homework 4 30-Day Mortality Rate of Patients with Cancer Admitted to MICU](/BIOSTAT-203B/Homework4.html)
 
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
@@ -26,8 +26,8 @@
 * Lab 8
 
 ### HLT POL 445 Healthcare Marketing
-* [Forecasting Denosumab](https://tonylim96.github.io/HLT-POL-445/Denosumab.pdf)
-* [Product Team Cialis: Getting Ready to Market](https://tonylim96.github.io/HLT-POL-445/Cialis.pdf)
+* [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf)
+* [Product Team Cialis: Getting Ready to Market](/HLT-POL-445/Cialis.pdf)
 
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
