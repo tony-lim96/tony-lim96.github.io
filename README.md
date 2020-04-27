@@ -31,11 +31,11 @@
 
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
+* Comparing Financial Statements Between Leukemia & Lymphoma Society and American Cancer Society 
 
 ### HLT POL 441 Data Analytics: Identifying, Collecting, and Analyzing Data in Health Care
 
 ## Fall 2019
 ### HLT POL 403 Healthcare Financial Accounting
-* Comparing Stanford Health Care and Northwestern Memorial Healthcare Using Financial Statements
+* Comparing Financial Statements Between Stanford Health Care and Northwestern Memorial Healthcare
 * Analyzing the Financial Statements of DaVita Healthcare Partners, Inc
-
