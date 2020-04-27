@@ -26,7 +26,7 @@
 * Lab 8
 
 ### HLT POL 445 Healthcare Marketing
-
+* [Forecasting Denosumab](https://tonylim96.github.io/HLT-POL-445/ForecastingDenosumab.pdf)
 
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
