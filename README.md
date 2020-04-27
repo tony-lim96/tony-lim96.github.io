@@ -36,4 +36,6 @@
 
 ## Fall 2019
 ### HLT POL 403 Healthcare Financial Accounting
+* Using Financial Statements to Compare Stanford Health Care and Northwestern Memorial Healthcare
+* Analyzing the Financial Statements of DaVita Healthcare Partners, Inc
 
