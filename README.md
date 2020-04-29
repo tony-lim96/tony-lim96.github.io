@@ -2,7 +2,7 @@
 ### MGMT 298D Special Topics in Management: Health Care Analytics
 * [Lab 1 Predicting Health Insurance Expenses (U.S. Census Bureau)](/MGMT-298D/Lab1.html)
 * [Lab 2 Socioeconomics and Exercise Behavior (NHANES)](/MGMT-298D/Lab2.html)
-* Lab 3
+* [Lab 3 Caloric Intake and Demographics (NHANES)](/MGMT-298D/Lab3.html)
 * Lab 4
 
 ## Winter 2020
