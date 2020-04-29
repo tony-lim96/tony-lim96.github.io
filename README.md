@@ -1,8 +1,8 @@
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* [Lab 1 Predicting Health Insurance Expenses](/MGMT-298D/Lab1.html)
-* [Lab 2 Socioeconomics and Exercise Behavior](/MGMT-298D/Lab2.html)
-* Lab 3
+* [Lab 1 Predicting Health Insurance Expenses (U.S. Census Bureau)](/MGMT-298D/Lab1.html)
+* [Lab 2 Socioeconomics and Exercise Behavior (NHANES)](/MGMT-298D/Lab2.html)
+* [Lab 3 Caloric Intake and Demographics (NHANES)](/MGMT-298D/Lab3.html)
 * Lab 4
 
 ## Winter 2020
@@ -37,5 +37,5 @@
 
 ## Fall 2019
 ### HLT POL 403 Healthcare Financial Accounting
-* Comparing Financial Statements Between Stanford Health Care and Northwestern Memorial Healthcare
+* [Comparing Financial Statements Between Northwestern Memorial HealthCare and Stanford Health Care](/HLT-POL-403/NorthwesternStanford.pdf)
 * [Analyzing the Financial Statements of DaVita Healthcare Partners, Inc](/HLT-POL-403/DaVita.pdf)
