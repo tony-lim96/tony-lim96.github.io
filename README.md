@@ -10,10 +10,10 @@
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
-* Homework 1: [Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html)
-* Homework 2: [Analysis and Visualization of MIMIC-III Data](/BIOSTAT-203B/Homework2.html)
+* Homework 1: [Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
+* Homework 2: [Analysis and Visualization of Admissions/Patient EMR Data](/BIOSTAT-203B/Homework2.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
 * Homework 3: [Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/)
-* Homework 4: [30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html)
+* Homework 4: [30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
 
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
