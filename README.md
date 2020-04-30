@@ -6,6 +6,7 @@
 * Lab 4 Analyzing Country-Level HIV Outcomes Before and After Implementing PEPFAR Using Difference-in-Differences 
 * Lab 5 Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)
 * Lab 6 Predicting Causal Estimation Using Regression Discontinuity
+* Final Project 
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
@@ -16,16 +17,17 @@
 
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
-* Mid-Quarter Project
-* Final Project
+
 * Lab 1
 * Lab 2
 * Lab 3
 * Lab 4
+* Mid-Quarter Project
 * Lab 5
 * Lab 6
 * Lab 7
 * Lab 8
+* Final Project
 
 ### HLT POL 445 Healthcare Marketing
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf)
