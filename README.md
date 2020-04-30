@@ -22,12 +22,12 @@
 * Lab 2
 * Lab 3
 * Lab 4
-* Mid-Quarter Project
+* Mid-Quarter Project Examining Employment-Related Characteristics and Concerns Before and After the Great Recession of 2008 ([Youth Development Study](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24881))
 * Lab 5
 * Lab 6
 * Lab 7
 * Lab 8
-* Final Project
+* Final Project Determining Variables Leading to Couples Meeting and Staying Together ([How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
 
 ### HLT POL 445 Healthcare Marketing
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf)
