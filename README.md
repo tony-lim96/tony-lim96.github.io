@@ -1,8 +1,8 @@
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* Lab 1: [Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
-* Lab 2: [Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
-* Lab 3: [Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
+* [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
+* [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
+* [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
 * Lab 4: Analyzing Country-Level HIV Outcomes Before and After Implementing PEPFAR Using Difference-in-Differences 
 * Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)
 * Lab 6: Predicting Causal Estimation Using Regression Discontinuity
@@ -10,10 +10,10 @@
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
-* Homework 1: [Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
-* Homework 2: [Analysis and Visualization of Admissions/Patient EMR Data](/BIOSTAT-203B/Homework2.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
-* Homework 3: [Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/) ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19))
-* Homework 4: [30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
+* [Homework 1: Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
+* [Homework 2: Analysis and Visualization of Admissions/Patient EMR Data](/BIOSTAT-203B/Homework2.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
+* [Homework 3: Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/) ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19))
+* [Homework 4: 30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
 
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
