@@ -1,9 +1,11 @@
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* [Lab 1 Predicting Health Insurance Expenses (U.S. Census Bureau)](/MGMT-298D/Lab1.html)
-* [Lab 2 Socioeconomics and Exercise Behavior (NHANES)](/MGMT-298D/Lab2.html)
-* [Lab 3 Caloric Intake and Demographics (NHANES)](/MGMT-298D/Lab3.html)
-* Lab 4
+* [Lab 1 Predicting Health Insurance Expenses Using Linear Regression (U.S. Census Bureau)](/MGMT-298D/Lab1.html)
+* [Lab 2 Analyzing Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression (NHANES)](/MGMT-298D/Lab2.html)
+* [Lab 3 Analyzing Caloric Intake and Demographics Using Linear Regression (NHANES)](/MGMT-298D/Lab3.html)
+* Lab 4 Analysis of Country-Level HIV Outcomes Before and After Implementing PEPFAR Using Difference-in-Differences 
+* Lab 5 Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)
+* Lab 6 Predicting Causal Estimation Using Regression Discontinuity
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
