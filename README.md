@@ -31,7 +31,7 @@
 
 ### HLT POL 445 Healthcare Marketing
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf) ([Kellogg School of Management](https://www.kellogg.northwestern.edu/kellogg-case-publishing/case-search/case-detail.aspx?caseid=%7B7D64FB5D-9E56-4A87-8A7B-7AB7AFB24DCD%7D))
-* [Product Team Cialis: Getting Ready to Market](/HLT-POL-445/Cialis.pdf) ([Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=31580)
+* [Product Team Cialis: Getting Ready to Market](/HLT-POL-445/Cialis.pdf) ([Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=31580))
 
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
