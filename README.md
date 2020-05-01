@@ -18,7 +18,7 @@
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
 
-* [Lab 1](/BIOSTAT-203A/Lab1.pdf) ([Details](/BIOSTAT-203A/Lab1Details.html), [U.S. News & World Report](https://www.usnews.com/best-colleges))
+* [Lab 1: Introduction to SAS and R](/BIOSTAT-203A/Lab1Details.html) ([U.S. News & World Report](https://www.usnews.com/best-colleges))
 * [Lab 2: Creating a SAS Data Set and Setting Attributes](/BIOSTAT-203A/Lab2.pdf) ([Details](/BIOSTAT-203A/Lab2Details.html), [U.S. News & World Report](https://www.usnews.com/best-colleges))
 * [Lab 3: Manipulating Data in R](/BIOSTAT-203A/Lab3.pdf) ([Details](/BIOSTAT-203A/Lab3Details.html), [The U.S. Supreme Court Justice Database](http://epstein.wustl.edu/research/justicesdata.html))
 * [Lab 4: Manipulating and Summarzing Data in SAS](/BIOSTAT-203A/Lab4.pdf) ([Details](/BIOSTAT-203A/Lab4Details.html), [Physician and Other Supplier Public Use File](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier))
