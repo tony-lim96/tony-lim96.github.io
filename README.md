@@ -20,7 +20,7 @@
 
 * [Lab 1](/BIOSTAT-203A/Lab1.pdf) ([Details](/BIOSTAT-203A/Lab1Details.html), [U.S. News & World Report](https://www.usnews.com/best-colleges))
 * [Lab 2: Creating a SAS Data Set and Setting Attributes](/BIOSTAT-203A/Lab2.pdf) ([Details](/BIOSTAT-203A/Lab2Details.html), [U.S. News & World Report](https://www.usnews.com/best-colleges))
-* [Lab 3: Manipulating Data in R](/BIOSTAT-203A/Lab3.pdf) ([Details](/BIOSTAT-203A/Lab3Details.html), [The U.S. Supremme Court Justice Database](http://epstein.wustl.edu/research/justicesdata.html))
+* [Lab 3: Manipulating Data in R](/BIOSTAT-203A/Lab3.pdf) ([Details](/BIOSTAT-203A/Lab3Details.html), [The U.S. Supreme Court Justice Database](http://epstein.wustl.edu/research/justicesdata.html))
 * [Lab 4: Manipulating and Summarzing Data in SAS](/BIOSTAT-203A/Lab4.pdf) ([Details](/BIOSTAT-203A/Lab4Details.html), [Physician and Other Supplier Public Use File](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier))
 * [Mid-Quarter Project: Examining Employment-Related Characteristics and Concerns Before and After the Great Recession of 2008](/BIOSTAT-203A/MQP.pdf) ([Details](/BIOSTAT-203A/MQPDetails.pdf), [Youth Development Study](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24881))
 * [Lab 5: Creating Figures in R](/BIOSTAT-203A/Lab5.pdf) ([Details](/BIOSTAT-203A/Lab5Details.html), [CDC National Center for Health Statistics](https://catalog.data.gov/dataset/vsrr-provisional-drug-overdose-death-counts-54e35#))
