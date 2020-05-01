@@ -18,15 +18,15 @@
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
 
-* Lab 1
-* Lab 2
-* Lab 3
-* Lab 4
+* [Lab 1](/BIOSTAT-203A/Lab1.pdf)
+* [Lab 2](/BIOSTAT-203A/Lab2.pdf)
+* [Lab 3](/BIOSTAT-203A/Lab3.pdf)
+* [Lab 4](/BIOSTAT-203A/Lab4.pdf)
 * Mid-Quarter Project: Examining Employment-Related Characteristics and Concerns Before and After the Great Recession of 2008 ([Youth Development Study](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24881))
-* Lab 5
-* Lab 6
-* Lab 7
-* Lab 8
+* [Lab 5](/BIOSTAT-203A/Lab5.pdf)
+* [Lab 6](/BIOSTAT-203A/Lab6.pdf)
+* [Lab 7](/BIOSTAT-203A/Lab7.pdf)
+* [Lab 8](/BIOSTAT-203A/Lab8.pdf)
 * Final Project: Analyzing Variables Leading to Couples Meeting and Staying Together ([How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
 
 ### HLT POL 445 Healthcare Marketing
