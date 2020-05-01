@@ -22,12 +22,12 @@
 * [Lab 2](/BIOSTAT-203A/Lab2.pdf) ([Details](/BIOSTAT-203A/Lab2Details.html), )
 * [Lab 3](/BIOSTAT-203A/Lab3.pdf) ([Details](/BIOSTAT-203A/Lab3Details.html), )
 * [Lab 4](/BIOSTAT-203A/Lab4.pdf) ([Details](/BIOSTAT-203A/Lab4Details.html), )
-* Mid-Quarter Project: Examining Employment-Related Characteristics and Concerns Before and After the Great Recession of 2008 ([Details](/BIOSTAT-203A/MQPDetails.pdf), [Youth Development Study](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24881))
+* [Mid-Quarter Project: Examining Employment-Related Characteristics and Concerns Before and After the Great Recession of 2008](/BIOSTAT-203A/MQP.pdf) ([Details](/BIOSTAT-203A/MQPDetails.pdf), [Youth Development Study](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/24881))
 * [Lab 5](/BIOSTAT-203A/Lab5.pdf) ([Details](/BIOSTAT-203A/Lab5Details.html), )
 * [Lab 6](/BIOSTAT-203A/Lab6.pdf) ([Details](/BIOSTAT-203A/Lab6Details.html), )
 * [Lab 7](/BIOSTAT-203A/Lab7.pdf) ([Details](/BIOSTAT-203A/Lab7Details.html), )
 * [Lab 8](/BIOSTAT-203A/Lab8.pdf) ([Details](/BIOSTAT-203A/Lab8Details.html), )
-* Final Project: Analyzing Variables Leading to Couples Meeting and Staying Together ([Details](/BIOSTAT-203A/FinalProjectDetails.pdf), [How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
+* [Final Project: Analyzing Variables Leading to Couples Meeting and Staying Together](/BIOSTAT-203A/FinalProject.pdf) ([Details](/BIOSTAT-203A/FinalProjectDetails.pdf), [How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
 
 ### HLT POL 445 Healthcare Marketing
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf) ([Kellogg School of Management](https://www.kellogg.northwestern.edu/kellogg-case-publishing/case-search/case-detail.aspx?caseid=%7B7D64FB5D-9E56-4A87-8A7B-7AB7AFB24DCD%7D))
