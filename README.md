@@ -27,7 +27,7 @@
 * [Lab 6: Creating Long and Wide Data Sets Using Longitudinal Data in SAS](/BIOSTAT-203A/Lab6.pdf) ([Details](/BIOSTAT-203A/Lab6Details.html), [China Health and Nurition Survey (CHNS)](https://www.cpc.unc.edu/projects/china/data/datasets/index.html))
 * [Lab 7: SAS Macro and Report Examples](/BIOSTAT-203A/Lab7.pdf) ([Details](/BIOSTAT-203A/Lab7Details.html), [Physician and Other Supplier Public Use File](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Physician-and-Other-Supplier))
 * [Lab 8: Simulating Data using an R Function](/BIOSTAT-203A/Lab8.pdf) ([Details](/BIOSTAT-203A/Lab8Details.html))
-* [Final Project: Analyzing Variables Leading to Couples Meeting and Staying Together](/BIOSTAT-203A/FinalProject.pdf) ([Details](/BIOSTAT-203A/FinalProjectDetails.pdf), [How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
+* [Final Project: Analyzing Variables Associated with Couples Meeting and Staying Together](/BIOSTAT-203A/FinalProject.pdf) ([Details](/BIOSTAT-203A/FinalProjectDetails.pdf), [How Couples Meet and Stay Together (HCMST)](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30103))
 
 ### HLT POL 445 Healthcare Marketing
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf) ([Kellogg School of Management](https://www.kellogg.northwestern.edu/kellogg-case-publishing/case-search/case-detail.aspx?caseid=%7B7D64FB5D-9E56-4A87-8A7B-7AB7AFB24DCD%7D))
