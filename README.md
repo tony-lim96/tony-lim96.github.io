@@ -7,7 +7,7 @@
 
 <!-- 
 * [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression](/MGMT-298D/Lab5.html) ([Framingham Heart Study](https://framinghamheartstudy.org/))
-* [Lab 6: Predicting Causal Estimation Using Regression Discontinuity](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
+* [Lab 6: Predicting Causal Estimation Based on Newborn Birth Weight and NICU Assignment Using Regression Discontinuity](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
 * [Final Project: ](/MGMT-298D/FinalProject.html)
 -->
 
