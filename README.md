@@ -6,7 +6,7 @@
 * [Lab 4: Evaluating Country-Level HIV Outcomes Before and After Implementing the President's Emergency Plan for AIDS Relief (PEPFAR) Using Difference-in-Differences](/MGMT-298D/Lab4.html)
 
 <!-- 
-* [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)](/MGMT-298D/Lab5.html)
+* [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)](/MGMT-298D/Lab5.html) ([Framingham Heart Study](https://framinghamheartstudy.org/))
 * [Lab 6: Predicting Causal Estimation Using Regression Discontinuity](/MGMT-298D/Lab6.html)
 * [Final Project: ](/MGMT-298D/FinalProject.html)
 -->
