@@ -1,14 +1,14 @@
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
 * [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
-* [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
+* [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([Article](https://www.ncbi.nlm.nih.gov/pubmed/20371127))
 * [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
-* [Lab 4: Evaluating Country-Level HIV Outcomes Before and After Implementing the President's Emergency Plan for AIDS Relief (PEPFAR) Using Difference-in-Differences](/MGMT-298D/Lab4.html)
+* [Lab 4: Evaluating Country-Level HIV Outcomes Before and After Implementing the President's Emergency Plan for AIDS Relief (PEPFAR) Using Difference-in-Differences](/MGMT-298D/Lab4.html) ([Article](https://jamanetwork.com/journals/jama/fullarticle/1157487))
+* [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression](/MGMT-298D/Lab5.html) ([Framingham Heart Study](https://framinghamheartstudy.org/))
 
 <!-- 
-* Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression (Framingham Heart Study)
-* Lab 6: Predicting Causal Estimation Using Regression Discontinuity
-* Final Project: 
+* [Lab 6: Predicting Causal Estimation Based on Newborn Birth Weight and NICU Assignment Using Regression Discontinuity](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
+* [Final Project: ](/MGMT-298D/FinalProject.html)
 -->
 
 ## Winter 2020
@@ -36,11 +36,9 @@
 * [Forecasting Denosumab](/HLT-POL-445/Denosumab.pdf) ([Kellogg School of Management](https://www.kellogg.northwestern.edu/kellogg-case-publishing/case-search/case-detail.aspx?caseid=%7B7D64FB5D-9E56-4A87-8A7B-7AB7AFB24DCD%7D))
 * [Product Team Cialis: Getting Ready to Market](/HLT-POL-445/Cialis.pdf) ([Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=31580))
 
-<!--
 ## Winter 2019
 ### HLT POL 436 Healthcare Financial Management
-* Comparing Financial Statements Between Leukemia & Lymphoma Society and American Cancer Society 
--->
+* [Comparing Financial Statements Between Leukemia & Lymphoma Society and American Cancer Society](/HLT-POL-436/LLS.pdf)
 
 <!--
 ### HLT POL 441 Data Analytics: Identifying, Collecting, and Analyzing Data in Health Care
