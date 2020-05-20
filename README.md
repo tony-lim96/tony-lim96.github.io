@@ -5,9 +5,9 @@
 * [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
 * [Lab 4: Evaluating Country-Level HIV Outcomes Before and After Implementing the President's Emergency Plan for AIDS Relief (PEPFAR) Using Difference-in-Differences](/MGMT-298D/Lab4.html) ([Article](https://jamanetwork.com/journals/jama/fullarticle/1157487))
 * [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression](/MGMT-298D/Lab5.html) ([Framingham Heart Study](https://framinghamheartstudy.org/fhs-about/))
+* [Lab 6: Estimating the Reduction in At-Risk Infant Mortality Attributable to NICU Care Using a Regression Discontinuity Design](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
 
 <!-- 
-* [Lab 6: Predicting Causal Estimation Based on Newborn Birth Weight and NICU Assignment Using Regression Discontinuity](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
 * [Final Project: ](/MGMT-298D/FinalProject.html)
 -->
 
