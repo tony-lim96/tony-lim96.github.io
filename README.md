@@ -1,5 +1,4 @@
 ## Certificates
-### 
 * [Introduction to Structured Query Language (SQL)
 ](https://www.coursera.org/account/accomplishments/verify/JQ9MFRGAZ59K?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course) ([University of Michigan](https://www.coursera.org/learn/intro-sql))
 
