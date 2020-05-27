@@ -4,16 +4,15 @@
 
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
+<!-- 
+* [Final Project: ](/MGMT-298D/FinalProject.html) ([Details](/MGMT-298D/FinalProjectDetails.pdf))
+-->
 * [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
 * [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([Article](https://www.ncbi.nlm.nih.gov/pubmed/20371127))
 * [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx))
 * [Lab 4: Evaluating Country-Level HIV Outcomes Before and After Implementing the President's Emergency Plan for AIDS Relief (PEPFAR) Using Difference-in-Differences](/MGMT-298D/Lab4.html) ([Article](https://jamanetwork.com/journals/jama/fullarticle/1157487))
 * [Lab 5: Predicting Cardiovascular Health Outcomes Using Logistic Regression](/MGMT-298D/Lab5.html) ([Framingham Heart Study](https://framinghamheartstudy.org/fhs-about/))
 * [Lab 6: Estimating the Reduction in At-Risk Infant Mortality Attributable to NICU Care Using a Regression Discontinuity Design](/MGMT-298D/Lab6.html) ([Article](https://academic.oup.com/qje/article/125/2/591/1882183))
-
-<!-- 
-* [Final Project: ](/MGMT-298D/FinalProject.html)
--->
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
