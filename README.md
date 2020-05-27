@@ -1,3 +1,7 @@
+## Certificates
+* [Introduction to Structured Query Language (SQL)
+](https://www.coursera.org/account/accomplishments/verify/JQ9MFRGAZ59K) ([University of Michigan](https://www.coursera.org/learn/intro-sql))
+
 ## Spring 2020
 ### MGMT 298D Special Topics in Management: Health Care Analytics
 * [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
