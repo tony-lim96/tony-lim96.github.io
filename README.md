@@ -3,6 +3,11 @@
 ](https://www.coursera.org/account/accomplishments/verify/JQ9MFRGAZ59K) ([University of Michigan](https://www.coursera.org/learn/intro-sql))
 
 ## Spring 2020
+<!--
+### HLT POL M242 Determinants of Health
+* [Final Project: ](/HLT-POL-M242/FinalProject.pdf) ([Details](/HLT-POL-M242/FinalProjectDetails.pdf))
+-->
+
 ### MGMT 298D Special Topics in Management: Health Care Analytics
 <!-- 
 * [Final Project: Predicting Calories Attributable to Coffee Consumption Using Multiple Linear Regression](/MGMT-298D/FinalProject.html) ([Details](/MGMT-298D/FinalProjectDetails.pdf), [NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
