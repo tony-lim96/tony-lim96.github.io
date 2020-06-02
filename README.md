@@ -9,7 +9,7 @@
 -->
 
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* [Final Project: Predicting Coffee Consumption Using Multiple Linear Regression](/MGMT-298D/FinalProject.pdf) ([Details](/MGMT-298D/FinalProjectDetails.pdf), [NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
+* [Final Project: Predicting Coffee Consumption Using Multiple Linear Regression](/MGMT-298D/FinalProject.pdf) ([Code](/MGMT-298D/FinalProjectCode.html), [Details](/MGMT-298D/FinalProjectDetails.pdf), [NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
 * [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
 * [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([Article](https://www.ncbi.nlm.nih.gov/pubmed/20371127))
 * [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
