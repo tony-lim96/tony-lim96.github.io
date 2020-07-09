@@ -48,7 +48,7 @@
 
 ### HLT POL 441 Data Analytics: Identifying, Collecting, and Analyzing Data in Health Care
 * [Calculating and Analyzing LACE Index](https://1drv.ms/x/s!Auam95MmFCMyoUjmwWcnWOjyDr2R?e=Ifs5LL) ([LACE Index](/HLT-POL-441/LACE_Index.pdf))
-* 
+* [Analyzing and Comparing Metrics for Transplant Patients at Two Hospitals](https://1drv.ms/x/s!Auam95MmFCMyojYU10-haxAGM9Ae?e=aAg6np)
 
 ## Fall 2019
 ### HLT POL 403 Healthcare Financial Accounting
