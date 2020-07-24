@@ -9,7 +9,7 @@
 -->
 
 ### MGMT 298D Special Topics in Management: Health Care Analytics
-* [Final Project: Predicting Coffee Consumption Using Multiple Linear Regression](/MGMT-298D/FinalProject.pdf) ([Code](/MGMT-298D/FinalProjectCode.html), [Details](/MGMT-298D/FinalProjectDetails.pdf), [NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
+* [Final Project: Predicting Coffee Consumption Using Multiple Linear Regression](/MGMT-298D/FinalProject.pdf) ([Code](/MGMT-298D/FinalProjectCode.html), [Details](/MGMT-298D/FinalProjectDetails.pdf), [National Health and Nutrition Examination Survey (NHANES)](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
 * [Lab 1: Predicting Health Insurance Expenses Using Linear Regression](/MGMT-298D/Lab1.html) ([U.S. Census Bureau](https://data.census.gov/))
 * [Lab 2: Examining Socioeconomics and Exercise Behavior Using Log-Linear/Multiple Linear Regression](/MGMT-298D/Lab2.html) ([Meltzer & Jena, 2010](https://www.ncbi.nlm.nih.gov/pubmed/20371127))
 * [Lab 3: Examining Caloric Intake and Demographics Using Linear Regression](/MGMT-298D/Lab3.html) ([NHANES](https://wwwn.cdc.gov/nchs/nhanes/ContinuousNhanes/Default.aspx?BeginYear=2015))
@@ -19,9 +19,9 @@
 
 ## Winter 2020
 ### BIOSTAT 203B Introduction to Data Science
-* [Homework 1: Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
+* [Homework 1: Introduction to MIMIC-III Data with Linux](/BIOSTAT-203B/Homework1.html) ([Medical Information Mart for Intensive Care III (MIMIC-III)](https://mimic.physionet.org/about/mimic/))
 * [Homework 2: Analysis and Visualization of Admissions/Patient EMR Data](/BIOSTAT-203B/Homework2.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
-* [Homework 3: Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/) ([JHU CSSE](https://github.com/CSSEGISandData/COVID-19))
+* [Homework 3: Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/) ([JHU Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19))
 * [Homework 4: 30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
 
 ## Fall 2019
