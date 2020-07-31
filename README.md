@@ -1,6 +1,14 @@
 ## Certificates
-* [Introduction to Structured Query Language (SQL)
-](https://www.coursera.org/account/accomplishments/verify/JQ9MFRGAZ59K) ([University of Michigan](https://www.coursera.org/learn/intro-sql))
+* [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/verify/JQ9MFRGAZ59K) ([University of Michigan](https://www.coursera.org/learn/intro-sql))
+
+<!--
+* Applied Data Science with Python
+    + Introduction to Data Science in Python
+    + Applied Plotting, Charting & Data Representation in Python
+    + Applied Machine Learning in Python
+    + Applied Text Mining in Python
+    + Applied Social Network Analysis in Python
+-->
 
 ## Spring 2020
 <!--
