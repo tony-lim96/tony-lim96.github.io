@@ -32,6 +32,9 @@
 * [Homework 3: Visualizing COVID-19 Data with Shiny App](https://tonylim.shinyapps.io/COVID-19/) ([JHU Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19))
 * [Homework 4: 30-Day Mortality Rate of Cancer Patients Admitted to MICU](/BIOSTAT-203B/Homework4.html) ([MIMIC-III](https://mimic.physionet.org/about/mimic/))
 
+### UCLA Center for Healthcare Management Case Competition
+* [UCLA Health Expansion Through Direct-to-Employer Partnership](/UCLACHM/SlideDeck.pdf)
+
 ## Fall 2019
 ### BIOSTAT 203A Introduction to Data Management and Statistical Computing
 
