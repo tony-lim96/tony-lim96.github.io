@@ -1,0 +1,48 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+
+options(scipen = 999)
+```
+
+```{r}
+data <- read_csv("adminfellow.csv")
+```
+
+```{r}
+data %>%
+  group_by(campus, year_diff) %>%
+  select(campus, year_diff, pay_gross) %>%
+  summarise(n = n(), avg_pay_gross = mean(pay_gross)) -> a
+
+a
+
+a %>%
+  ggplot(aes(x = year_diff, y = avg_pay_gross, color = campus)) +
+  geom_point() + 
+  scale_x_continuous(breaks = c(1:13), limits = c(1, 13)) +
+  labs(x = "Years since fellowship", 
+       y = "Average gross pay",
+       title = "Average gross pay over time by campus")
+  
+```
+
+```{r}
+data %>%
+  filter(campus == "Los Angeles") %>%
+  select(name_full, year_diff, pay_gross) %>%
+  group_by(name_full) %>%
+  ggplot(aes(x = year_diff, y = pay_gross, color = name_full)) + 
+  geom_point() + 
+  scale_x_continuous(breaks = c(1:12), limits = c(1, 12)) +
+  labs(x = "Years since fellowship", 
+       y = "Gross pay",
+       title = "Gross pay over time for UCLA Health Administrative Fellows")
+```
+
